@@ -28,7 +28,7 @@ header {
     background-color: rgb(206, 230, 252);
     display: flex;
     justify-content: space-between;
-    margin: 10px 0px;
+    margin: 10px 10px;
     font-weight: bold;
     font-size: 3vw;
     text-transform: uppercase;
@@ -68,7 +68,7 @@ nav {
     height: 5px;
     background-color: white;
     border-radius: 5em;
-    width: 90vw;
+    width: 80vw;
     justify-self: center;
 }
 
