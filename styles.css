@@ -19,6 +19,10 @@ a {
   color: inherit;
   
 }
+
+.nieuwsbericht a{
+    text-decoration: underline;
+}
 a:hover {
     color: azure;
 }
