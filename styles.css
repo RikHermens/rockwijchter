@@ -98,8 +98,12 @@ nav {
 }
 .nieuwsbericht {
     width: 90vw;
-
 }
+.nieuwsbericht img {
+    height: 250px;
+}
+
+
 .artikel {
     margin: 15px 0px;
 }
